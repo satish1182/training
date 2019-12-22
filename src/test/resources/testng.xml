@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite" >
+<!--    <parameter name="browser" value="chrome"/>-->
+<test name="Regression1">
+
+
+    <classes>
+<!--        <class name="TestClass"/>-->
+        <class name="TestClass"/>
+    </classes>
+</test>
+</suite>
+
+
+
+
+<!--    <test name="Regression1">-->
+<!--&lt;!&ndash;        <groups>&ndash;&gt;-->
+<!--&lt;!&ndash;            <run>&ndash;&gt;-->
+<!--&lt;!&ndash;                <include name="brokenTests"  />&ndash;&gt;-->
+<!--&lt;!&ndash;                <exclude name="checkinTests"  />&ndash;&gt;-->
+<!--&lt;!&ndash;            </run>&ndash;&gt;-->
+<!--&lt;!&ndash;        </groups>&ndash;&gt;-->
+
+<!--        <classes>-->
+<!--            <class name="TestNGClass">-->
+<!--&lt;!&ndash;                <methods>&ndash;&gt;-->
+<!--&lt;!&ndash;                    <include name="testMethod" />&ndash;&gt;-->
+<!--&lt;!&ndash;                </methods>&ndash;&gt;-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--</suite>-->

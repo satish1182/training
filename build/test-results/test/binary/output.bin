@@ -1,0 +1,10 @@
+gTrying to find Element By : By.xpath: //a[@class="dropdown-toggle" and contains(text(),'Input Forms')]
+ËException occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class="dropdown-toggle" and contains(text(),'Input Forms')]"}
+&  (Session info: chrome=79.0.3945.88)
+jFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+UBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+”System info: host: 'Suneetas-iMac.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.1', java.version: '1.8.0_211'
+5Driver info: org.openqa.selenium.chrome.ChromeDriver
+¥Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /var/folders/s9/vp0c7kfj7kl...}, goog:chromeOptions: {debuggerAddress: localhost:49243}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+-Session ID: 1c0084b0fe5dce6e0171d8a98402a562
+h*** Element info: {Using=xpath, value=//a[@class="dropdown-toggle" and contains(text(),'Input Forms')]}
